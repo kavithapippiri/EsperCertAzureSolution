@@ -1,0 +1,139 @@
+﻿using EsperCertProject.Models;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
+using System;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+
+namespace EsperCertProject.Services
+{
+    public class EsperContentService
+    {
+        private readonly HttpClient _httpClient;
+        private readonly ILogger<EsperContentService> _logger;
+        private readonly EsperSettings _esperSettings;
+
+        public EsperContentService(HttpClient httpClient, ILogger<EsperContentService> logger, IOptions<EsperSettings> esperSettings)
+        {
+            _httpClient = httpClient;
+            _logger = logger;
+            _esperSettings = esperSettings.Value;
+
+            // Ensure HttpClient has default headers for authentication if not set by HttpClientFactory
+            // If Program.cs already configures a named client with headers, this might be redundant.
+            if (_httpClient.DefaultRequestHeaders.Authorization == null)
+            {
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _esperSettings.ApiKey);
+            }
+            _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+        }
+
+        public async Task<(long contentId, string contentName)> UploadCertificateAsync(string deviceId, byte[] pfxBytes)
+        {
+            _logger.LogInformation($"Attempting to upload certificate for device {deviceId}");
+
+            // Ensure the BaseUrl is correctly configured.
+            // Assuming _esperSettings.BaseUrl is "https://kyndryl-api.esper.cloud"
+            // And EnterpriseId is something like "eefff1ca-00a8-461d-a0a8-88de41126fa2"
+            string uploadUrl = $"{_esperSettings.BaseUrl}enterprise/{_esperSettings.EnterpriseId}/content/upload/";
+
+            _logger.LogInformation($"Uploading to Esper URL: {uploadUrl}");
+
+            using (var content = new MultipartFormDataContent())
+            {
+                // Add the certificate file bytes. The 'name' parameter should be "key" as per Esper API.
+                // The filename (third parameter) is for the server to suggest a filename, e.g., "device_certificate.p12"
+                content.Add(new ByteArrayContent(pfxBytes), "key", $"device_certificate_{deviceId}.p12"); // <-- **CHANGED THIS TO "key"**
+
+                // You might also need to add 'content_name' as a separate form data field if Esper API requires it
+                // For a PFX certificate, a meaningful name is important.
+                string contentName = $"DeviceCertificate_{deviceId}_{DateTime.UtcNow:yyyyMMddHHmmss}";
+                content.Add(new StringContent(contentName), "content_name");
+
+                // You might also need to add 'content_type' for certificate in Esper (e.g., 'certificate')
+                content.Add(new StringContent("certificate"), "content_type"); // Assuming 'certificate' is the correct type
+
+                // You might need to add 'device_id' if the API expects it as part of the form data,
+                // although it's usually part of the URL or header for direct uploads.
+                // If not needed as form data, remove this.
+                // content.Add(new StringContent(deviceId), "device");
+
+
+                HttpResponseMessage response = await _httpClient.PostAsync(uploadUrl, content);
+
+                string responseContent = await response.Content.ReadAsStringAsync();
+
+                if (response.IsSuccessStatusCode)
+                {
+                    _logger.LogInformation($"Esper content upload successful for device {deviceId}. Response: {responseContent}");
+
+                    // Parse the response to get contentId and contentName
+                    // The exact structure depends on Esper's successful upload response
+                    using (JsonDocument doc = JsonDocument.Parse(responseContent))
+                    {
+                       // if (doc.RootElement.TryGetProperty("id", out JsonElement idElement) &&
+                         //   doc.RootElement.TryGetProperty("content_name", out JsonElement nameElement))
+                         if (doc.RootElement.TryGetProperty("id", out JsonElement idElement) &&
+                            doc.RootElement.TryGetProperty("content_name", out JsonElement nameElement))
+                        {
+                            long contentId = idElement.GetInt64();
+                            string retrievedContentName = nameElement.GetString() ?? contentName; // Use retrieved name or fallback
+                            return (contentId, retrievedContentName);
+                        }
+                        else
+                        {
+                            _logger.LogError($"Esper API success response did not contain expected 'id' or 'content_name'. Response: {responseContent}");
+                            throw new Exception("Failed to parse content ID or name from Esper API response.");
+                        }
+                    }
+                }
+                else
+                {
+                    _logger.LogError($"Esper API response content for upload error: {responseContent}");
+                    throw new HttpRequestException($"Esper content upload failed with status {response.StatusCode}. Message: {response.ReasonPhrase}. Details: {responseContent}");
+                }
+            }
+        }
+
+
+        public async Task PushToDeviceAsync(string deviceId, long contentId, string contentName)
+        {
+            _logger.LogInformation($"Attempting to push content ID {contentId} (Name: {contentName}) to device {deviceId}");
+
+            // URL for pushing content to a device
+            // Example: /api/v0/enterprise/{enterprise_id}/device/{device_id}/command/
+            string pushUrl = $"{_esperSettings.BaseUrl}enterprise/{_esperSettings.EnterpriseId}/device/{deviceId}/command/";
+
+            _logger.LogInformation($"Pushing to Esper URL: {pushUrl}");
+
+            var payload = new
+            {
+                command_type = "INSTALL", // Assuming 'INSTALL' for certificate
+                content = new[] {
+                    new {
+                        content_id = contentId
+                    }
+                }
+            };
+
+            var jsonPayload = JsonSerializer.Serialize(payload);
+            var httpContent = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
+
+            HttpResponseMessage response = await _httpClient.PostAsync(pushUrl, httpContent);
+            string responseContent = await response.Content.ReadAsStringAsync();
+
+            if (response.IsSuccessStatusCode)
+            {
+                _logger.LogInformation($"Esper content push successful for device {deviceId}. Response: {responseContent}");
+            }
+            else
+            {
+                _logger.LogError($"Esper API response content for push error: {responseContent}");
+                throw new HttpRequestException($"Esper content push failed with status {response.StatusCode}. Message: {response.ReasonPhrase}. Details: {responseContent}");
+            }
+        }
+    }
+}

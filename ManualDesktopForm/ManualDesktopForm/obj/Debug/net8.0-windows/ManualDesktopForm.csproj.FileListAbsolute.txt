@@ -1,0 +1,386 @@
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.exe
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.deps.json
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.runtimeconfig.json
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Common.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Queues.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.Windows.Forms.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.AssemblyReference.cache
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.Form1.resources
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.GenerateResource.cache
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfoInputs.cache
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfo.cs
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDe.5A0554F3.Up2Date
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\refint\ManualDesktopForm.dll
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.genruntimeconfig.cache
+C:\Users\Mayank\Downloads\14 June\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ref\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.exe
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.config
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.deps.json
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.runtimeconfig.json
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Common.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Queues.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.Windows.Forms.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.AssemblyReference.cache
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.Form1.resources
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.GenerateResource.cache
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfoInputs.cache
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfo.cs
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.CoreCompileInputs.cache
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDe.5A0554F3.Up2Date
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\refint\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.genruntimeconfig.cache
+C:\Users\kavithakyn\source\repos\manual\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ref\ManualDesktopForm.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.config
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.exe
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\appsettings.json
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.deps.json
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.runtimeconfig.json
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Common.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Queues.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.Windows.Forms.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Snappier.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.AssemblyReference.cache
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.Form1.resources
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.GenerateResource.cache
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfoInputs.cache
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfo.cs
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.CoreCompileInputs.cache
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDe.5A0554F3.Up2Date
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\refint\ManualDesktopForm.dll
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.genruntimeconfig.cache
+C:\Temp\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ref\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.config
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.exe
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.deps.json
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.runtimeconfig.json
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Common.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Queues.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.Windows.Forms.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.AssemblyReference.cache
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.Form1.resources
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.GenerateResource.cache
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfoInputs.cache
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfo.cs
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.CoreCompileInputs.cache
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDe.5A0554F3.Up2Date
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\refint\ManualDesktopForm.dll
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.genruntimeconfig.cache
+C:\Users\kavithakyn\source\repos\0715\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ref\ManualDesktopForm.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.config
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.exe
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\appsettings.json
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.deps.json
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.runtimeconfig.json
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Common.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Queues.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.Windows.Forms.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Snappier.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.AssemblyReference.cache
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.Form1.resources
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.GenerateResource.cache
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfoInputs.cache
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfo.cs
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.CoreCompileInputs.cache
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDe.5A0554F3.Up2Date
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\refint\ManualDesktopForm.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.genruntimeconfig.cache
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ref\ManualDesktopForm.dll
+C:\Temp\CertificateManagementSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.sourcelink.json
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.config
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.exe
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\appsettings.json
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.deps.json
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.runtimeconfig.json
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Common.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Azure.Storage.Queues.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\NLog.Windows.Forms.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\Snappier.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.AssemblyReference.cache
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.Form1.resources
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.GenerateResource.cache
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfoInputs.cache
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.AssemblyInfo.cs
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.csproj.CoreCompileInputs.cache
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDe.5A0554F3.Up2Date
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\refint\ManualDesktopForm.dll
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.pdb
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ManualDesktopForm.genruntimeconfig.cache
+C:\Temp\EsperCertAzureSolution\ManualDesktopForm\ManualDesktopForm\obj\Debug\net8.0-windows\ref\ManualDesktopForm.dll

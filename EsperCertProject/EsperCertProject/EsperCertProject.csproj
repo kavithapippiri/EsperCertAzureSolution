@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<AzureFunctionsVersion>v4</AzureFunctionsVersion>
+		<OutputType>Exe</OutputType>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>EsperCertProject</RootNamespace>
+
+	</PropertyGroup>
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+		<PackageReference Include="Microsoft.Azure.Functions.Worker" Version="1.22.1" />
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="1.17.2" />
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.ApplicationInsights" Version="1.2.0" />
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore" Version="1.2.1" />
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.OpenApi" Version="1.5.1" />
+		<!-- REMOVE THIS LINE <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Storage.Queues" Version="5.5.2" /> -->
+		<!--add these 2 lines -->
+		<PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Storage" Version="6.2.0" />
+		<!--<PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Timers" Version="4.3.0" />-->
+
+		<PackageReference Include="Microsoft.ApplicationInsights.WorkerService" Version="2.22.0" />
+
+		<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+
+		<PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+
+		<PackageReference Include="Serilog.Settings.Configuration" Version="9.0.0" />
+
+		<PackageReference Include="Serilog.Sinks.File" Version="7.0.0" />
+		<PackageReference Include="System.Net.Http.Json" Version="8.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+
+		<!-- REMOVE THIS LINE (MongoDB.Driver will bring it in) <PackageReference Include="MongoDB.Bson" Version="3.4.0" /> -->
+		<!-- UPDATE MongoDB.Driver to a more recent version -->
+		<PackageReference Include="MongoDB.Driver" Version="2.25.0" />
+		<!-- ADD System.Security.Cryptography.Pkcs for enhanced certificate operations (like CSRs) -->
+		<PackageReference Include="System.Security.Cryptography.Pkcs" Version="9.0.5" />
+
+	</ItemGroup>
+	<ItemGroup>
+		<None Update="host.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="local.settings.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToPublishDirectory>Never</CopyToPublishDirectory>
+		</None>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_EsperCertProject.Tests
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\obj\Debug\net8.0\EsperCertProject.Tests.csproj.AssemblyReference.cache
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\obj\Debug\net8.0\EsperCertProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\obj\Debug\net8.0\EsperCertProject.Tests.AssemblyInfoInputs.cache
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\obj\Debug\net8.0\EsperCertProject.Tests.AssemblyInfo.cs
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\obj\Debug\net8.0\EsperCertProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kavithakyn\source\repos\EsperCertProject\EsperCertProject.Tests\obj\Debug\net8.0\EsperCertProject.Tests.sourcelink.json

@@ -1,0 +1,73 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+build/
+bld/
+out/
+
+# Visual Studio working folder
+.vs/
+
+# Rider project files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Node.js (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.cache
+*.pdb
+*.dbmdl
+*.bak
+*.sql
+*.psess
+*.vsp
+*.vspx
+*.scc
+
+# Environment files
+.env
+.env.*
+
+# Compiled DLLs
+*.dll
+*.exe
+*.class
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+desktop.ini

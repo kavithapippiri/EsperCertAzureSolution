@@ -1,0 +1,32 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "Grpc__Channel": "http://127.0.0.1:7165"
+  },
+  "CertSrv": {
+    "BaseUrl": "https://mbsdc.mbs.com/certsrv",
+    "CaRequesterUsername": "kavithap@mbs.com",
+    "CaRequesterPassword": "g$N6wM$yfurtive",
+    "TemplateName": "EsperAutoWebServerCert"
+  },
+  "Esper": {
+    "BaseUrl": "https://kyndryl-api.esper.cloud/api/v0/",
+    "Tenant": "kyndryl",
+    "ApiKey": "PJ94S7U4LINClqJv0BDkqHvMwmTYKL",
+    "EnterpriseId": "eefff1ca-00a8-461d-a0a8-88de41126fa2",
+    "WifiSsid": "Pgl",
+    "WifiIdentity": "kavitha.pippiri@kyndryl.com",
+    "WifiDomain": "kyndryl.com",
+    "CertificatePassword": ""
+  },
+  "MongoDb": {
+    "ConnectionString": "mongodb://localhost:27017",
+    "DatabaseName": "certmanager",
+    "CollectionName": "devices"
+  },
+  "Certificate": {
+    "UseSelfSigned": false
+  }
+}
